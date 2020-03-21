@@ -5,7 +5,7 @@ Age = 12
 
 Skills:
 -Eating food
--Playing sports
+-Playing sports :) 
 
 Education:
 -School
