@@ -1,0 +1,11 @@
+Name = Veronika
+Surname = Lopatiuk
+DOB = 06/06/2008
+Age = 12
+
+Skills:
+-Eating food
+-Playing sports
+
+Education:
+-School
