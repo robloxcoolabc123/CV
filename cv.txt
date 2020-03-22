@@ -8,6 +8,10 @@ Skills:
 -Playing sports :) 
 -Playing Roblox
 -Coding
+	- JavaScript
+	- HTML/CSS
+	- Python
+	- SQL (basics)
 
 Education:
 -School
